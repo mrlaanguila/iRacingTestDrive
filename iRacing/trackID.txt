@@ -1,0 +1,164 @@
+Auto Club Speedway
+0
+Autodromo Internazionale Enzo e Dino Ferrari
+266
+Autódromo José Carlos Pace
+212
+Autodromo Nazionale Monza
+239
+Barber Motorsports Park
+0
+Brands Hatch Circuit
+145
+Brands Hatch Circuit - Indy
+146
+Canadian Tire Motorsports Park
+144
+Charlotte Motor Speedway - Roval
+330
+Chicagoland Speedway
+0
+Circuit de Spa-Francorchamps - Classic Pits
+164
+Circuit de Spa-Francorchamps - Endurance Pits
+165
+Circuit de Spa-Francorchamps - Grand Prix Pits
+163
+Circuit des 24 Heures du Mans
+268
+Circuit Gilles Villeneuve
+218
+Circuit of the Americas - Grand Prix
+229
+Circuit Park Zandvoort - Grand Prix
+149
+Circuit Zolder
+199
+Daytona circa 2007 - Rallycross Long
+293
+Daytona circa 2007 - Rallycross Short
+296
+Daytona circa 2007 - Road Course
+26
+Daytona International Speedway - Road Course
+192
+Detroit Grand Prix at Belle Isle
+319
+Donington Park Racing Circuit - Grand Prix
+233
+Donington Park Racing Circuit - National
+234
+Gateway Motorsports Park - Oval
+237
+Gateway Motorsports Park - Road Course
+238
+Homestead Miami Speedway - Oval
+20
+Homestead Miami Speedway - Road Course
+21
+Homestead Miami Speedway - Road Course B
+22
+Indianapolis Motor Speedway - Oval
+133
+Indianapolis Motor Speedway - Road
+134
+Iowa Speedway - Oval
+169
+Iowa Speedway - Rallycross
+295
+Iowa Speedway - Road Course
+170
+Irwindale Speedway - Figure Eight
+0
+ISM Raceway
+235
+Kansas Speedway - Road Course
+215
+Las Vegas Motor Speedway - Road Course
+111
+Lime Rock Park
+1
+Michigan International Speedway
+124
+Mid-Ohio Sports Car Course
+153
+Mount Panorama Circuit
+219
+New Hampshire Motor Speedway - Oval
+131
+New Hampshire Motor Speedway - Road Course
+130
+Nurburgring - BES/WEC
+255
+Nurburgring - Gesamtstrecke 24h
+252
+Nurburgring - Gesamtstrecke VLN
+262
+Nurburgring - Grand Prix
+250
+Nurburgring - Industriefahrten
+249
+Nurburgring - Touristenfahrten
+253
+Okayama International Circuit
+166
+Oran Park Raceway
+202
+Oulton Park Circuit
+180
+Oxford Plains Speedway
+12
+Phillip Island Circuit
+152
+Phoenix International Raceway - 2008 - Rallycross
+306
+Phoenix International Raceway - 2008 - Road Course
+105
+Pocono Raceway
+136
+Pocono Raceway - Road Course
+140
+Richmond Raceway
+31
+Road America
+18
+Road Atlanta
+127
+Rockingham Speedway - Road Course
+0
+Sebring International Raceway - International
+95
+Silverstone Circuit - Grand Prix
+41
+Silverstone Circuit - Historical Grand Prix
+42
+Snetterton
+297
+Sonoma Raceway
+102
+Summit Point Raceway
+9
+Summit Point Raceway - Jefferson
+8
+Suzuka International Racing Course
+168
+Texas Motor Speedway - Oval
+121
+Texas Motor Speedway - Road Course
+117
+The Milwaukee Mile
+0
+Tsukuba - 2000 Full
+324
+Twin Ring Motegi
+195
+Virginia International Raceway
+2
+Watkins Glen International - Boot
+107
+Watkins Glen International - Classic Boot
+108
+Watkins Glen International - Cup
+106
+WeatherTech Raceway Laguna Seca
+47

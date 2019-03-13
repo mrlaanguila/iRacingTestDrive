@@ -1,0 +1,54 @@
+Aston Martin DB9 GT1
+64
+Audi R18
+98
+Audi R8 LMS GT3
+73
+BMW M8 GTE
+109
+BMW Z4 GT3
+55
+Corvette Daytona Prototype
+70
+Dallara F3
+106
+Dallara iR18
+99
+Ferrari 488 GT3
+94
+Ferrari 488 GTE
+93
+Ford GT GT3
+59
+Ford GT GTE
+92
+Ford Mustang
+30
+Formula Renault 2.0
+74
+Formula Renault 3.5
+105
+HPD ARX-01c
+39
+Kia Optima
+44
+Mazda MX5
+34
+McLaren MP4-12C GT3
+43
+Mercedes-AMG GT3
+72
+Porsche 911 RSR
+102
+Porsche 919 Hybrid
+100
+Porsche 991 Cup
+88
+Radical SR8 V8
+13
+Skip Barber
+1
+Spec Racer Ford
+23
+VW Beetle GRC
+91

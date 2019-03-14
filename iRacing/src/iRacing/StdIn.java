@@ -17,6 +17,12 @@ public class StdIn {
 		return ch;
 	}
 
+	public static String readString(String prompt) {
+		System.out.println(prompt);
+		String tmp = in.nextLine();
+		return tmp;
+	}
+
 	public static int readInt(String prompt) {
 		System.out.println(prompt);
 		int tmp = in.nextInt();
